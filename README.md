@@ -1,5 +1,5 @@
 # Bitcoin
 
 'Streaming_Basic' folder contains 2 basic app which stream Bitcoin data from 'binance':
-- simaple code which streams data and print into a console
-- simple Dash app. It streams data and disply current Bitcoin Price 
+- simple code which streams data using WebSocket and print into a console the Bitcoin close prices from 30min candle
+- simple Dash app. It streams data using WebSocket from dash-extension and disply current Bitcoin Price 
